@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473908382113",
+    "project_id": "treegreentask",
+    "storage_bucket": "treegreentask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473908382113:android:4a151a162afb5a6f9463e0",
+        "android_client_info": {
+          "package_name": "com.example.treegreens_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIZxkWw9_N6zu21cvdBPuyb8m3It7uCl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
